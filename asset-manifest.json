@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5f676cba.css",
+    "main.js": "/portfolio/static/js/main.059dab79.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/2.jpeg": "/portfolio/static/media/2.fa797c6fa255e2196f3e.jpeg",
+    "static/media/6.png": "/portfolio/static/media/6.312a63a93d62ce754ddb.png",
+    "static/media/1.jpeg": "/portfolio/static/media/1.7fa6e060afa4230e930e.jpeg",
+    "static/media/me2.jpg": "/portfolio/static/media/me2.306ba4393be066aea544.jpg",
+    "static/media/cv.pdf": "/portfolio/static/media/cv.86496854b1bf3dd4accd.pdf",
+    "static/media/5.jpeg": "/portfolio/static/media/5.1312e81aaf39fe70fc4e.jpeg",
+    "static/media/leet.png": "/portfolio/static/media/leet.7a4bd0c8cc487a21cc8a.png",
+    "static/media/4.png": "/portfolio/static/media/4.2485cd547fa97758cb90.png",
+    "static/media/3.jpg": "/portfolio/static/media/3.c1be3800968b22d111af.jpg",
+    "static/media/codechef.jpg": "/portfolio/static/media/codechef.0141d701477b79139d83.jpg",
+    "static/media/gfg.png": "/portfolio/static/media/gfg.16d761c3ad63656a87c6.png",
+    "static/media/hacker.png": "/portfolio/static/media/hacker.af71d5dbbce08d760dea.png",
+    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portfolio/index.html",
+    "main.5f676cba.css.map": "/portfolio/static/css/main.5f676cba.css.map",
+    "main.059dab79.js.map": "/portfolio/static/js/main.059dab79.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f676cba.css",
+    "static/js/main.059dab79.js"
+  ]
+}
